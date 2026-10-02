@@ -124,7 +124,14 @@ The program handles:
 
 - `lineeditor.c` — complete C implementation.
 - `HELP.md` — command-by-command usage guide.
-- Paper design — hand-written data structure and core-logic design, to be submitted as a photo/scan.
+- `TESTING.md` — test checklist for core and bonus features.
+- `paper-design.jpg` — cropped photo/scan of the hand-written paper design and core logic.
+
+---
+
+## Paper Design
+
+The paper-design image is included in the repository as `paper-design.jpg` and contains the hand-written data structure, command list, flowcharts/core logic, program/function design, example, and team roles.
 
 ---
 
